@@ -30,9 +30,9 @@ public class Youtube {
           
       //    System.out.println(ch2.subs);
           
-          ch1.upload("how to made cake");
-          ch2.upload("how to sleep well");
-          ch3.upload("how to run well");
+          ch1.upload("Moon has uploaded a new video");
+          ch2.upload("Moon has shared a new song");
+          ch3.upload("Moon is done");
           
 	}
 }
